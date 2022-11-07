@@ -7,3 +7,8 @@ This repository contains the python projects practice codes. I am planning to ke
 ## Project_1: TicTacToe Game
 - Object Oriented Programming
 - Classes Inheritance
+
+## Project_2: Password_Generator
+- Random Choice
+- Random Shuffle
+- Random Sample
