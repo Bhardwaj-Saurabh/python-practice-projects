@@ -12,3 +12,9 @@ This repository contains the python projects practice codes. I am planning to ke
 - Random Choice
 - Random Shuffle
 - Random Sample
+
+## Project_2: Play Hangman 
+- Random Choice
+- conditional programming
+- Loop in Python
+- List manipulation
