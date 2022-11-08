@@ -23,3 +23,10 @@ This repository contains the python projects practice codes. I am planning to ke
 - Conditional programming
 - Loop in Python
 - String manipulation
+- Functions in Python
+
+## Project_5: The Secret Auction
+- Conditional programming
+- Loop in Python
+- Dictionary
+- Functions in Python
