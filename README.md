@@ -42,3 +42,10 @@ This repository contains the python projects practice codes. I am planning to ke
 - Random Choice
 - Loops in Python
 - Functions in Python
+
+## Project_8: Higher Lower Game
+- Conditional programming
+- Random Choice
+- Loops in Python
+- Dictionary
+- Functions in Python
