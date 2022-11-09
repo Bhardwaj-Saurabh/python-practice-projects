@@ -30,3 +30,9 @@ This repository contains the python projects practice codes. I am planning to ke
 - Loop in Python
 - Dictionary
 - Functions in Python
+
+## Project_6: BlackJack
+- Conditional programming
+- Loop in Python
+- List manipulation
+- Functions in Python
