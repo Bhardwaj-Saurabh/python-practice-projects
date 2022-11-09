@@ -16,23 +16,29 @@ This repository contains the python projects practice codes. I am planning to ke
 ## Project_3: Play Hangman 
 - Random Choice
 - Conditional programming
-- Loop in Python
+- Loops in Python
 - List manipulation
 
 ## Project_4: Caesar Cipher 
 - Conditional programming
-- Loop in Python
+- Loops in Python
 - String manipulation
 - Functions in Python
 
 ## Project_5: The Secret Auction
 - Conditional programming
-- Loop in Python
+- Loops in Python
 - Dictionary
 - Functions in Python
 
 ## Project_6: BlackJack
 - Conditional programming
-- Loop in Python
+- Loops in Python
 - List manipulation
+- Functions in Python
+
+## Project_7: Guess The Number
+- Conditional programming
+- Random Choice
+- Loops in Python
 - Functions in Python
