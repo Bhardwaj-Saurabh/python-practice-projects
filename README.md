@@ -48,6 +48,7 @@ This repository contains the python projects practice codes. I am planning to ke
 
 ## Project_8: Quiz Game
 - Object Oriented Programming
+- Conditional programming
 - Loops in python
 - Dictionary and List manipulation
 - Functions
@@ -55,4 +56,9 @@ This repository contains the python projects practice codes. I am planning to ke
 
 ## Project_9: TicTacToe Game
 - Object Oriented Programming
+- Conditional programming
 - Classes Inheritance
+- Loops in python
+- Dictionary and List manipulation
+- Functions
+- Classes
